@@ -29,7 +29,7 @@ Welche Bücher (mit Titel und Erscheinungsjahr) wurden nicht von Verlegern aus K
 
 #### Lösungen
 ```sql
-Deine Lösungen
+Ja Hallo erstmal, ich weiß noch nicht, ob Sie's wussten, aber... 
 ```
 
 ### Aufgabe 3
